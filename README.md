@@ -20,3 +20,6 @@ cd to the 'client' folder
 run command `npm install`
 
 then run command `npm run dev`
+
+
+### To Access the Server Side of the code, Click on this link -> https://github.com/ktauqeer04/Backend-Assignment
